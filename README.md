@@ -1,1 +1,1 @@
-
+An application designed to automate tasks related to Training and Placement Cell, KNIT Sultanpur. It deals in fetching data of students from KNIT Website, organizing them and filtering them as per company's criteria. It also automates emailing and message sending to students regarding any formal announcements from Career Development Cell of the college.

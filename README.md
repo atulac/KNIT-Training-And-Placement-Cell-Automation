@@ -1,4 +1,4 @@
-An application designed to automate tasks related to Training and Placement Cell, KNIT Sultanpur. 
+An python based application designed to automate tasks related to Training and Placement Cell, KNIT Sultanpur. 
 
 The application has got different panels based on its functionalities.</br>It deals in:</br></br>
       1. Fetching data of students from website <a href = "http://knit.ac.in/">knit.ac.in </a></br> 
@@ -50,3 +50,11 @@ This file can be selected from ‘Browse file of the recipients’ button in the
 <b>SMS Broadcasting:</b> This feature of the application is for sending short messages to a list of mobile
 numbers.
  
+<h2>Modules Used </h2>
+
+<b>Data Extraction</b>: urllib2, bs4/beautifulSoup
+<b>GUI Development</b>: wx
+<b>Database</b>: MySQLdb
+<b>Working with Excel</b>:xlrd,xlwt,pandas,numpy,prettyTable
+<b>Email and SMS</b>: email,smtplib,socket,cookielib,getpass,datetime
+<b>General Modules</b>: os,sys,collections

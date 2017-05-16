@@ -38,6 +38,15 @@ One needs to browse in a sheet and explicitly set one or more criteria to be app
 Clicking ‘Save’ button saves changes to the same sheet while clicking on the ‘Save As’ button
 creates a new file at the desired location.
       
-
-
+<b>The Merge Sheets Panel</b>
+The Panel has been specifically designed for merging sheets.
+The sheets can only be merged if the two sheets to be merged contain ROLL as the common column.
+<b>The Broadcast Message Panel</b>
+Mail Broadcasting: This feature of the application is specific to sending mail to one or a group of
+email id. The mail can only be send by/to the Gmail users.
+The list of receiver’s email address needs to be a .txt file with successive email
+id on each new line.
+This file can be selected from ‘Browse file of the recipients’ button in the panel.
+SMS Broadcasting: This feature of the application is for sending short messages to a list of mobile
+numbers.
  

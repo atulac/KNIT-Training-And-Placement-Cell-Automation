@@ -19,7 +19,8 @@ The database fetched is so organized that it covers every minute detail of the s
       </br></br>
       
 Besides, the database presentation section has been divided into a few different tabs to get needed insight into it and not more.
-The tab division are as follows:</br></br>
+Users need to select the required details and can save the extracted data to any desired location
+by browsing with ‘Extract and Save As’ button.The tab division are as follows:</br></br>
       1. Precise Sheet (shows only semester-wise-carry-over-results updated marks)</br>
       2. Carry Overs Sheet (shows only carry-over details of the student(s))</br>
       3. Detailed Sheet (detailed including semester marks, carry-overs, pending backlogs and status all at once)</br>

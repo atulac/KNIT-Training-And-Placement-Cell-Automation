@@ -18,8 +18,8 @@ The database fetched is so organized that it covers every minute detail of the s
       5. Unfair means flag (to keep a check on the conduct) 
       </br></br>
       
-<h2>The Criterions</h2>
-The criterias as per which the database can be filtered are : </br></br>
+<h2>The Criterion</h2>
+The criterion as per which the database can be filtered are : </br></br>
       1. Percentage Range</br>
       2. Year Gaps</br>
       3. Date Of Birth</br>

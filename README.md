@@ -8,13 +8,13 @@ It deals in:</br></br>
 
 The application on the whole helps in analyzing and filtering the data of students who qualify the criteria of the companies visiting the campus in a few clicks. </br> 
 
-The database fetched is so organized that it covers every minute detail of the student(s) being analyzed. It covers </br></b>
+The database fetched is so organized that it covers every minute detail of the student(s) being analyzed. It covers </br></br>
       1. Semester-wise marks of the students </br>
       2. Status of the students (Passed, Failed, Backlogged) </br>
       3. Carry over marks of each semester (if applicable) </br>
       4. Pending backlogs.</br>
       5. Unfair means flag (to keep a check on the conduct) 
-      </br>
+      </br></br>
 The criterias as per which the database can be filtered are : </br></br>
       1. Percentage Range</br>
       2. Year Gaps</br>

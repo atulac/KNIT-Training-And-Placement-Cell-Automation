@@ -42,11 +42,11 @@ creates a new file at the desired location.
 The Panel has been specifically designed for merging sheets.
 The sheets can only be merged if the two sheets to be merged contain ROLL as the common column.
 <h2>The Broadcast Message Panel</h2>
-Mail Broadcasting: This feature of the application is specific to sending mail to one or a group of
+<b>Mail Broadcasting:</b> This feature of the application is specific to sending mail to one or a group of
 email id. The mail can only be send by/to the Gmail users.
 The list of receiver’s email address needs to be a .txt file with successive email
 id on each new line.
 This file can be selected from ‘Browse file of the recipients’ button in the panel.
-SMS Broadcasting: This feature of the application is for sending short messages to a list of mobile
+<b>SMS Broadcasting:</b> This feature of the application is for sending short messages to a list of mobile
 numbers.
  

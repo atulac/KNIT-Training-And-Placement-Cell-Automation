@@ -18,13 +18,6 @@ The database fetched is so organized that it covers every minute detail of the s
       5. Unfair means flag (to keep a check on the conduct) 
       </br></br>
       
-<h2>The Criterion</h2>
-The criterion as per which the database can be filtered are : </br></br>
-      1. Percentage Range</br>
-      2. Year Gaps</br>
-      3. Date Of Birth</br>
-      4. Number of Backlogs allowed</br>
-      
 Besides, the database presentation section has been divided into a few different tabs to get needed insight into it and not more.
 The tab division are as follows:</br></br>
       1. Precise Sheet (shows only semester-wise-carry-over-results updated marks)</br>
@@ -32,4 +25,12 @@ The tab division are as follows:</br></br>
       3. Detailed Sheet (detailed including semester marks, carry-overs, pending backlogs and status all at once)</br>
       4. Branch Changers (the students list who switch branches after first year)</br>
       5. UFM (the students who are found doing any misconduct in examination)</br>
+      
+<h2>The Criterion</h2>
+The criterion as per which the database can be filtered are : </br></br>
+      1. Percentage Range</br>
+      2. Year Gaps</br>
+      3. Date Of Birth</br>
+      4. Number of Backlogs allowed</br>
+
  

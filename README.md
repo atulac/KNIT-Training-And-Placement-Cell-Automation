@@ -26,11 +26,13 @@ The tab division are as follows:</br></br>
       4. Branch Changers (the students list who switch branches after first year)</br>
       5. UFM (the students who are found doing any misconduct in examination)</br>
       
-<h2>The Criterion</h2>
+<h2>The Filtering</h2>
 The criterion as per which the database can be filtered are : </br></br>
       1. Percentage Range</br>
       2. Year Gaps</br>
       3. Date Of Birth</br>
       4. Number of Backlogs allowed</br>
+      
+<h
 
  

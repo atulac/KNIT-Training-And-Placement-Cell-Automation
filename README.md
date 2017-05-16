@@ -6,7 +6,7 @@ It deals in:</br></br>
       3. Filtering them as per company's criteria </br>
       4. Automating emailing and message sending to students regarding any formal announcements from Career Development Cell</br>      
 
-The application on the whole helps in analyzing and filtering the data of students who qualify the criteria of the companies visiting the campus in a few clicks. /br> 
+The application on the whole helps in analyzing and filtering the data of students who qualify the criteria of the companies visiting the campus in a few clicks. </br> 
 
 The criterias as per which the database can be filtered are : </br></br>
       1. Percentage Range</br>

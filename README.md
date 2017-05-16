@@ -1,10 +1,10 @@
 An application designed to automate tasks related to Training and Placement Cell, KNIT Sultanpur. 
 
-It deals in:</br></br>
-      1. Fetching data of students from website <a href = "http://knit.ac.in/">knit.ac.in </a></br>
-      2. Organizing them </br>
-      3. Filtering them as per company's criteria </br>
-      4. Automating emailing and message sending to students regarding any formal announcements from Career Development Cell</br>      
+The application has got different panels based on its functionalities.</br>It deals in:</br></br>
+      1. Fetching data of students from website <a href = "http://knit.ac.in/">knit.ac.in </a></br> 
+      2. Organizing and Presenting them </br> (The Extract Sheets Panel)
+      3. Filtering them as per company's criteria </br> (The Import Sheets Panel)
+      4. Automating emailing and message sending to students regarding any formal announcements from Career Development Cell</br>(The Message Broadcasting Panel)      
 
 The application on the whole helps in analyzing and filtering the data of students who qualify the criteria of the companies visiting the campus in a few clicks. </br> 
 

@@ -52,9 +52,9 @@ numbers.
  
 <h2>Modules Used </h2>
 
-<b>Data Extraction</b>: urllib2, bs4/beautifulSoup
-<b>GUI Development</b>: wx
-<b>Database</b>: MySQLdb
-<b>Working with Excel</b>:xlrd,xlwt,pandas,numpy,prettyTable
-<b>Email and SMS</b>: email,smtplib,socket,cookielib,getpass,datetime
+<b>Data Extraction</b>: urllib2, bs4/beautifulSoup</br>
+<b>GUI Development</b>: wx</br>
+<b>Database</b>: MySQLdb</br>
+<b>Working with Excel</b>:xlrd,xlwt,pandas,numpy,prettyTable</br>
+<b>Email and SMS</b>: email,smtplib,socket,cookielib,getpass,datetime</br>
 <b>General Modules</b>: os,sys,collections

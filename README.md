@@ -17,6 +17,8 @@ The database fetched is so organized that it covers every minute detail of the s
       4. Pending backlogs.</br>
       5. Unfair means flag (to keep a check on the conduct) 
       </br></br>
+      
+<h2>The Criterias</h2>
 The criterias as per which the database can be filtered are : </br></br>
       1. Percentage Range</br>
       2. Year Gaps</br>

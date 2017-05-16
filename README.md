@@ -8,6 +8,8 @@ It deals in:</br></br>
 
 The application on the whole helps in analyzing and filtering the data of students who qualify the criteria of the companies visiting the campus in a few clicks. </br> 
 
+
+<h2>The Database</h2>
 The database fetched is so organized that it covers every minute detail of the student(s) being analyzed. It covers:</br></br>
       1. Semester-wise marks of the students </br>
       2. Status of the students (Passed, Failed, Backlogged) </br>

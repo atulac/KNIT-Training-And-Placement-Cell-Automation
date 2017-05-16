@@ -1,4 +1,4 @@
-An python based application designed to automate tasks related to Training and Placement Cell, KNIT Sultanpur. 
+A python based application designed to automate tasks related to Training and Placement Cell, KNIT Sultanpur. 
 
 The application has got different panels based on its functionalities.</br>It deals in:</br></br>
       1. Fetching data of students from website <a href = "http://knit.ac.in/">knit.ac.in </a></br> 

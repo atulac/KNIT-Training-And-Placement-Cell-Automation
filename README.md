@@ -31,7 +31,7 @@ The criterion as per which the database can be filtered are : </br></br>
       1. Percentage Range</br>
       2. Year Gaps</br>
       3. Date Of Birth</br>
-      4. Number of Backlogs allowed</br>
+      4. Number of Backlogs allowed</br></br>
      
 One needs to browse in a sheet and explicitly set one or more criteria to be applied onto the sheet.
 Clicking ‘Save’ button saves changes to the same sheet while clicking on the ‘Save As’ button

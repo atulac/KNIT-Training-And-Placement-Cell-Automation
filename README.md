@@ -9,7 +9,7 @@ The application has got different panels based on its functionalities.</br>It de
 The application on the whole helps in analyzing and filtering the data of students who qualify the criteria of the companies visiting the campus in a few clicks. </br> 
 
 
-<h2>The Database</h2>
+<h2>The Extract Sheets Panel</h2>
 The database fetched is so organized that it covers every minute detail of the student(s) being analyzed. It covers:</br></br>
       1. Semester-wise marks of the students </br>
       2. Status of the students (Passed, Failed, Backlogged) </br>
@@ -26,7 +26,7 @@ The tab division are as follows:</br></br>
       4. Branch Changers (the students list who switch branches after first year)</br>
       5. UFM (the students who are found doing any misconduct in examination)</br>
       
-<h2>The Filtering</h2>
+<h2>The Import Sheet Panel</h2>
 The criterion as per which the database can be filtered are : </br></br>
       1. Percentage Range</br>
       2. Year Gaps</br>
